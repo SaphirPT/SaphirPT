@@ -2,7 +2,7 @@
 
 # Jorge Souza Junior
 
-### Desenvolvedor de sistemas · Automação · APIs · Inteligência artificial aplicada
+### Engenheiro de Software e Desenvolvedor de sistemas · Automação · APIs · Inteligência artificial aplicada
 
 Transformo processos complexos em produtos digitais claros, utilizáveis e orientados à operação.
 
