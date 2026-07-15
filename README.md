@@ -35,7 +35,7 @@ O meu trabalho cobre o ciclo completo: entendimento do problema, arquitetura, in
 
 ## Soluções em destaque
 
-### Ecossistema Digital Safe Haven
+### [Ecossistema Digital Safe Haven](https://github.com/SaphirPT/safe-haven-ecossistema-portfolio)
 
 <img src="./assets/safehaven-website.png" alt="Página pública do ecossistema digital Safe Haven" width="100%">
 
@@ -45,7 +45,7 @@ Plataforma digital para o setor imobiliário, reunindo presença pública, pesqu
 **Tecnologias:** PHP, JavaScript, Python, Node.js, APIs, bancos relacionais e Linux/VPS.  
 **Estado:** em operação e evolução contínua. · **Código:** privado.
 
-### EVA — Assistente Imobiliária Inteligente
+### [EVA — Assistente Imobiliária Inteligente](https://github.com/SaphirPT/eva-assistente-imobiliaria-portfolio)
 
 Plataforma de assistência operacional que combina interface desktop, APIs, automação de navegador, voz, análise de intenção, pesquisa de imóveis, relatórios e integrações de atendimento.
 
@@ -53,7 +53,7 @@ Plataforma de assistência operacional que combina interface desktop, APIs, auto
 **Tecnologias:** Python, PyQt6, Flask, Playwright, SQLite, APIs de IA e serviços de voz.  
 **Estado:** plataforma avançada; a linha EVA 8 representa um marco de evolução do mesmo produto. · **Código:** privado.
 
-### PT Imóveis e EVA CRM
+### [PT Imóveis e EVA CRM](https://github.com/SaphirPT/pt-imoveis-crm-portfolio)
 
 <img src="./assets/safehaven-crm-login.png" alt="Tela de acesso sanitizada do CRM imobiliário" width="100%">
 
@@ -63,7 +63,7 @@ Soluções de CRM imobiliário para organizar imóveis, clientes, contratos, com
 **Tecnologias:** PHP, SQL, React, Vite, TypeScript, Express, tRPC, MySQL e Drizzle.  
 **Estado:** módulos entre MVP funcional e plataforma avançada em consolidação. · **Código:** privado.
 
-### Safe Haven Dollhouse
+### [Safe Haven Dollhouse](https://github.com/SaphirPT/safe-haven-dollhouse-portfolio)
 
 Aplicação Android para captura 360°, visitas virtuais e representação espacial de imóveis.
 
@@ -71,7 +71,7 @@ Aplicação Android para captura 360°, visitas virtuais e representação espac
 **Tecnologias:** Kotlin, CameraX, WebView, Canvas, Material Design, Gradle e JDK 17.  
 **Estado:** protótipo técnico ativo. · **Código:** privado.
 
-### FireWatch Portugal
+### [FireWatch Portugal](https://github.com/SaphirPT/firewatch-portugal-portfolio)
 
 <img src="./assets/firewatch-operations.png" alt="Centro operacional FireWatch Portugal com dados sanitizados" width="100%">
 
@@ -81,7 +81,7 @@ Centro operacional para reunir e visualizar informação sobre focos de incêndi
 **Tecnologias:** Python, web UI, PowerShell, Batch e integrações opcionais em Docker, PHP e Node.js.  
 **Estado:** aplicação operacional documentada. · **Código:** privado.
 
-### EVA Follow-up & Pipeline
+### [EVA Follow-up & Pipeline](https://github.com/SaphirPT/eva-followup-pipeline-portfolio)
 
 Plataforma para acompanhar oportunidades imobiliárias desde a importação até ao retorno do consultor, com fases, resultados de contacto, notas e lembretes automáticos.
 
@@ -89,7 +89,7 @@ Plataforma para acompanhar oportunidades imobiliárias desde a importação até
 **Tecnologias:** PHP, MySQL, Node.js, XML, APIs e cron.  
 **Estado:** integração funcional dependente da infraestrutura privada. · **Código:** privado.
 
-### Imobiliária Call Recorder
+### [Imobiliária Call Recorder](https://github.com/SaphirPT/imobiliaria-call-recorder-portfolio)
 
 Arquitetura mobile/PWA para registo assistido de chamadas, funcionamento offline, transcrição e extração estruturada de informação imobiliária.
 
@@ -97,43 +97,64 @@ Arquitetura mobile/PWA para registo assistido de chamadas, funcionamento offline
 **Tecnologias:** React, Express, tRPC, MySQL/TiDB, Capacitor e PWA.  
 **Estado:** arquitetura e implementação parcial, com privacidade e conformidade como requisitos centrais. · **Código:** privado.
 
+### [Rotundas Terrenos Suite](https://github.com/SaphirPT/rotundas-terrenos-suite-portfolio)
+
+<img src="./assets/rotundas-terrenos-map.png" alt="Mapa sanitizado da Rotundas Terrenos Suite" width="100%">
+
+Mapeamento de rotundas, postos e terrenos com cruzamento geográfico, proximidade e exportações auditáveis.  
+**Código:** privado.
+
+### [Safe Haven Escalas](https://github.com/SaphirPT/safe-haven-escalas-portfolio)
+
+<img src="./assets/safehaven-escalas.png" alt="Interface sanitizada do sistema Safe Haven Escalas" width="100%">
+
+Gestão semanal de equipa, sorteio de domingos, histórico, relatórios e avisos em versões desktop e web.  
+**Código:** privado.
+
+### [CONSIG Software — Implantação e Customização](https://github.com/SaphirPT/consig-software-implantacao-portfolio)
+
+<img src="./assets/consig-software.png" alt="Página de apresentação do sistema de consignação" width="100%">
+
+Implantação, integração e customização de um sistema de gestão de consignação. A base COND é de Roberto Souto Junior e possui atribuição explícita no repositório individual.  
+**Código da implantação e dados:** privados.
+
 ## Dossiê de projetos
 
 ### Imobiliário, CRM e operação
 
 | Projeto | Objetivo e principais capacidades | Estado |
 |---|---|---|
-| **Agenda X-IMO** | Centralizar agenda e tarefas associadas à operação imobiliária e às integrações X-IMO. | Módulo em integração |
-| **CRM X-IMO — P&D** | Explorar importadores, automação, sincronização e fluxos complementares ao CRM principal. | Pesquisa e prototipagem |
-| **EVA Multi-Portal / SCRAPPING** | Agregar, normalizar e deduplicar imóveis de nove portais, com filtros, mapa, cache e exportação Excel/PDF. | Aplicação avançada |
-| **Safe Haven Angariação** | Organizar negócios, documentos, listas, anexos e evolução da angariação. | Módulo funcional |
-| **Rotundas Terrenos Suite** | Apoiar pesquisa, triagem e acompanhamento de terrenos e oportunidades por localização. | Solução especializada |
-| **Painel de Consultores** | Consolidar informação operacional, indicadores e acompanhamento da equipa comercial. | Dashboard em evolução |
-| **Clientes por Valor / Mythos** | Segmentar clientes por valor, indicadores e critérios de pesquisa para apoiar decisões comerciais. | Staging preparado |
-| **Safe Haven Escalas** | Gerir escalas semanais, equipa, sorteio de domingos, histórico, relatórios e avisos em versões desktop e web. | Solução multiplataforma |
-| **Controle de Chaves** | Registar retirada e devolução de chaves, último responsável, alertas, QR/EAN-13, etiquetas e permissões. | Sistema funcional |
-| **Questionários Safe Haven + IA** | Aplicar questionários temáticos, acompanhar progresso e produzir análise assistida e relatórios. | MVP funcional |
+| **[Agenda X-IMO](https://github.com/SaphirPT/agenda-ximo-portfolio)** | Centralizar agenda e tarefas associadas à operação imobiliária e às integrações X-IMO. | Módulo em integração |
+| **[CRM X-IMO — P&D](https://github.com/SaphirPT/crm-ximo-lab-portfolio)** | Explorar importadores, automação, sincronização e fluxos complementares ao CRM principal. | Pesquisa e prototipagem |
+| **[EVA Multi-Portal / SCRAPPING](https://github.com/SaphirPT/eva-multiportal-scraping-portfolio)** | Agregar, normalizar e deduplicar imóveis de nove portais, com filtros, mapa, cache e exportação Excel/PDF. | Aplicação avançada |
+| **[Safe Haven Angariação](https://github.com/SaphirPT/safe-haven-angariacao-portfolio)** | Organizar negócios, documentos, listas, anexos e evolução da angariação. | Módulo funcional |
+| **[Rotundas Terrenos Suite](https://github.com/SaphirPT/rotundas-terrenos-suite-portfolio)** | Apoiar pesquisa, triagem e acompanhamento de terrenos e oportunidades por localização. | Solução especializada |
+| **[Painel de Consultores](https://github.com/SaphirPT/painel-consultores-portfolio)** | Consolidar informação operacional, indicadores e acompanhamento da equipa comercial. | Dashboard em evolução |
+| **[Clientes por Valor / Mythos](https://github.com/SaphirPT/clientes-por-valor-portfolio)** | Segmentar clientes por valor, indicadores e critérios de pesquisa para apoiar decisões comerciais. | Staging preparado |
+| **[Safe Haven Escalas](https://github.com/SaphirPT/safe-haven-escalas-portfolio)** | Gerir escalas semanais, equipa, sorteio de domingos, histórico, relatórios e avisos em versões desktop e web. | Solução multiplataforma |
+| **[Controle de Chaves](https://github.com/SaphirPT/controle-de-chaves-portfolio)** | Registar retirada e devolução de chaves, último responsável, alertas, QR/EAN-13, etiquetas e permissões. | Sistema funcional |
+| **[Questionários Safe Haven + IA](https://github.com/SaphirPT/questionarios-safe-haven-portfolio)** | Aplicar questionários temáticos, acompanhar progresso e produzir análise assistida e relatórios. | MVP funcional |
 
 ### Automação, documentos e produtividade
 
 | Projeto | Objetivo e principais capacidades | Estado |
 |---|---|---|
-| **Preenchimento Inteligente** | Importar pessoas e documentos, identificar campos, preencher formulários, pré-visualizar e gerar PDFs com revisão humana. | Piloto avançado |
-| **Preenchedor de Serviços Online** | Preparar dados e automatizar etapas conhecidas sem contornar CAPTCHA, autenticação, pagamentos ou confirmações legais. | Versão funcional |
-| **Transcrição de Contratos** | Converter, segmentar e transcrever áudio para apoiar a criação e organização de documentação. | Fluxo funcional |
-| **SISARCH** | Gerir clientes, obras, finanças, prazos, documentos e relatórios de escritórios de arquitetura. | MVP em evolução |
-| **EVA Tools Admin** | Administrar licenças, HWID, expiração, proteção e pipelines de build para aplicações EVA. | Ferramenta interna |
-| **Python Super Compiler** | Transformar projetos Python em pacotes Windows, com dependências offline, relatórios e hashes de integridade. | Ferramenta operacional |
-| **Google Drive Guard** | Adicionar autenticação, sessão e perfis antes do acesso a recursos documentais privados. | Miniaplicação funcional |
+| **[Preenchimento Inteligente](https://github.com/SaphirPT/preenchimento-inteligente-portfolio)** | Importar pessoas e documentos, identificar campos, preencher formulários, pré-visualizar e gerar PDFs com revisão humana. | Piloto avançado |
+| **[Preenchedor de Serviços Online](https://github.com/SaphirPT/servicos-online-automacao-portfolio)** | Preparar dados e automatizar etapas conhecidas sem contornar CAPTCHA, autenticação, pagamentos ou confirmações legais. | Versão funcional |
+| **[Transcrição de Contratos](https://github.com/SaphirPT/transcricao-contratos-portfolio)** | Converter, segmentar e transcrever áudio para apoiar a criação e organização de documentação. | Fluxo funcional |
+| **[SISARCH](https://github.com/SaphirPT/sisarch-portfolio)** | Gerir clientes, obras, finanças, prazos, documentos e relatórios de escritórios de arquitetura. | MVP em evolução |
+| **[EVA Tools Admin](https://github.com/SaphirPT/eva-tools-admin-portfolio)** | Administrar licenças, HWID, expiração, proteção e pipelines de build para aplicações EVA. | Ferramenta interna |
+| **[Python Super Compiler](https://github.com/SaphirPT/python-super-compiler-portfolio)** | Transformar projetos Python em pacotes Windows, com dependências offline, relatórios e hashes de integridade. | Ferramenta operacional |
+| **[Google Drive Guard](https://github.com/SaphirPT/google-drive-guard-portfolio)** | Adicionar autenticação, sessão e perfis antes do acesso a recursos documentais privados. | Miniaplicação funcional |
 
 ### Inteligência, dados e atendimento
 
 | Projeto | Objetivo e principais capacidades | Estado |
 |---|---|---|
-| **EVA WhatsApp / ZapMiguel** | Atender por WhatsApp com contexto, alternância humano/automático, áudio, risco, intenção e pesquisa de imóveis. | Piloto funcional |
-| **Email Reverse Lookup** | Validar e enriquecer endereços de e-mail com sinais de domínio, DNS, website e reputação. | Base modular funcional |
-| **Mangualde Photo Locator** | Estimar a localização provável de fotografias com análise multimodal, ranking, coordenadas e mapa. | Aplicação em validação |
-| **Social Manager** | Organizar contas, conteúdo, calendário, campanhas e relatórios de redes sociais. | Aplicação local |
+| **[EVA WhatsApp / ZapMiguel](https://github.com/SaphirPT/eva-whatsapp-zapmiguel-portfolio)** | Atender por WhatsApp com contexto, alternância humano/automático, áudio, risco, intenção e pesquisa de imóveis. | Piloto funcional |
+| **[Email Reverse Lookup](https://github.com/SaphirPT/email-reverse-lookup-portfolio)** | Validar e enriquecer endereços de e-mail com sinais de domínio, DNS, website e reputação. | Base modular funcional |
+| **[Mangualde Photo Locator](https://github.com/SaphirPT/mangualde-photo-locator-portfolio)** | Estimar a localização provável de fotografias com análise multimodal, ranking, coordenadas e mapa. | Aplicação em validação |
+| **[Social Manager](https://github.com/SaphirPT/social-manager-portfolio)** | Organizar contas, conteúdo, calendário, campanhas e relatórios de redes sociais. | Aplicação local |
 
 ## Produtos consolidados
 
