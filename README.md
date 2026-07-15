@@ -47,6 +47,8 @@ Plataforma digital para o setor imobiliário, reunindo presença pública, pesqu
 
 ### [EVA — Assistente Imobiliária Inteligente](https://github.com/SaphirPT/eva-assistente-imobiliaria-portfolio)
 
+![Interface principal da EVA Assistente Executiva](./assets/eva-assistente-executiva.png)
+
 Plataforma de assistência operacional que combina interface desktop, APIs, automação de navegador, voz, análise de intenção, pesquisa de imóveis, relatórios e integrações de atendimento.
 
 **Capacidades:** assistente conversacional, contexto de atendimento, dashboards, voz, webhooks, pesquisa imobiliária e automações X-IMO.  
